@@ -1,0 +1,17 @@
+Required Components:
+
+1) NodeMCU(ESP8266)
+2) Motor Driver (L298N)
+3) Charging Module (TP4056)
+4) Solar Panel
+5) Battery
+6) Bo-motors
+7) Breadboard
+8) Jumper wires
+9) Switch
+10) Battery case
+11) Wheels
+l2) Conveyor belt
+13) PVC Sunboard
+
+13) Plastic Bottles
